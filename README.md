@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+###
 - I am a Computer Science Engineering student
 - Microsoft Learn Student Ambassador
 - H.E.R. DAO scholar for Algorand Greenhouse, Singapore
