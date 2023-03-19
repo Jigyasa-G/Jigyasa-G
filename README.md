@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G)](https://git.io/streak-stats)
 
 <!--
