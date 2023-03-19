@@ -17,9 +17,11 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Jigyasa-G&color=green) -->
 
-[![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&layout=compact&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
+[![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&layout=compact&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
 
+### My Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Jigyasa-G&theme=vision-friendly-dark&row=1)](https://github.com//Jigyasa-G) -->
