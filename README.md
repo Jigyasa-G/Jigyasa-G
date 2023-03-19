@@ -1,5 +1,5 @@
 ### Hi there ! I am Jigyasa👋
-: - I am a Computer Science Engineering student
+- I am a Computer Science Engineering student
 
 
 <div id="header" align="center">
