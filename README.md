@@ -1,12 +1,4 @@
 ### Hi there ! I am Jigyasa👋
-- I am a Computer Science Engineering student
-- Microsoft Learn Student Ambassador
-- H.E.R. DAO scholar for Algorand Greenhouse, Singapore
-- Google Developer Student Club - Core Lead
-- Chair,ACM-W for Women in Technology
-- MERN developer 
-- Research Student 
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,12 +14,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+- I am a Computer Science Engineering student
+- Microsoft Learn Student Ambassador
+- H.E.R. DAO scholar for Algorand Greenhouse, Singapore
+- Google Developer Student Club - Core Lead
+- Chair,ACM-W for Women in Technology
+- MERN developer and Open Source Contributor
+- Research Student
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&layout=compact&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
 <!-- ![](https://komarev.com/ghpvc/?username=Jigyasa-G&color=green) -->
 
 [![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&layout=compact&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
 
 ### My Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)
