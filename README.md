@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-[![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&theme=onedark)](https://github.com/Jigyasa-G)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jigyasa-G&theme=onedark&row=1)](https://github.com//Jigyasa-G)
-
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,6 +14,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&theme=onedark)](https://github.com/Jigyasa-G)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jigyasa-G&theme=onedark&row=1)](https://github.com//Jigyasa-G)
+
+
 <!-- ![](https://komarev.com/ghpvc/?username=Jigyasa-G&color=green) -->
 
 <!--
