@@ -5,6 +5,7 @@
 - Google Developer Student Club - Core Lead
 - Chair,ACM-W for Women in Technology
 - MERN developer and Open Source Contributor
+- Intrigued by the use cases of Python and R
 - Research Student
 
 <div id="header" align="center">
