@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Jigyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-G)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true)](https://git.io/streak-stats)
 
 <!--
 **Jigyasa-G/Jigyasa-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
