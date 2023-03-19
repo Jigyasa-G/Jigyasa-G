@@ -3,6 +3,9 @@
 - Microsoft Learn Student Ambassador
 - H.E.R. DAO scholar for Algorand Greenhouse, Singapore
 - Google Developer Student Club - Core Lead
+- Chair,ACM-W for Women in Technology
+- MERN developer 
+- Research Student 
 
 
 <div id="header" align="center">
