@@ -1,4 +1,6 @@
 ### Hi there ! I am Jigyasa👋
+: - I am a Computer Science Engineering student
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
