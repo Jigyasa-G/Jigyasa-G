@@ -5,6 +5,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jigyasa-G&count_private=true&show_icons=true&theme=dark)](https://github.com/Jigyasa-G)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jigyasa-G&theme=onedark&row=1)](https://github.com//Jigyasa-G)
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!-- ![](https://komarev.com/ghpvc/?username=Jigyasa-G&color=green) -->
 
 <!--
