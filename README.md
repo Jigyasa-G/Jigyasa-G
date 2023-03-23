@@ -18,8 +18,8 @@
   <a href="jigyastata@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-yellow?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
