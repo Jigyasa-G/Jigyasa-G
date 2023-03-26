@@ -7,6 +7,7 @@
 - MERN developer and Open Source Contributor
 - Intrigued by the use cases of Python and R in Data Analysis.
 - Research Student
+- Keen Hackathon pitcher
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
