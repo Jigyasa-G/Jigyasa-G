@@ -2,7 +2,7 @@
 - I am a Computer Science Engineering student
 - Microsoft Learn Student Ambassador
 - H.E.R. DAO scholar for Algorand Greenhouse, Singapore
-- Google Developer Student Club - Core Lead
+- Google Developers Student Club - Core Lead
 - Chair,ACM-W for Women in Technology
 - MERN developer and Open Source Contributor
 - Intrigued by the use cases of Python and R in Data Analysis.
