@@ -1,5 +1,6 @@
 ### Hi there ! I am Jigyasa👋
 - I am a Computer Science Engineering student
+- GSoC'2023 @ NRNB
 - Microsoft Learn Student Ambassador
 - H.E.R. DAO scholar for Algorand Greenhouse, Singapore
 - Google Developers Student Club - Core Lead
