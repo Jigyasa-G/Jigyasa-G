@@ -1,5 +1,6 @@
 ### Hi there ! I am Jigyasa👋
 - I am a Software Engineering student @ Carnegie Mellon University
+- Prev Intern : Amazon, Snap, Pegasystems
 - GSoC'2023 @ NRNB
 - Microsoft Learn Student Ambassador
 - H.E.R. DAO scholar for Algorand Greenhouse, Singapore
